@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.dbedc8ec.chunk.css",
-    "main.js": "/static/js/main.99bab5ae.chunk.js",
-    "main.js.map": "/static/js/main.99bab5ae.chunk.js.map",
+    "main.css": "/static/css/main.39cee129.chunk.css",
+    "main.js": "/static/js/main.be750166.chunk.js",
+    "main.js.map": "/static/js/main.be750166.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.639e6084.js",
     "runtime-main.js.map": "/static/js/runtime-main.639e6084.js.map",
     "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
@@ -12,11 +12,11 @@
     "static/js/3.7f288190.chunk.js.map": "/static/js/3.7f288190.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.dbedc8ec.chunk.css.map": "/static/css/main.dbedc8ec.chunk.css.map",
+    "static/css/main.39cee129.chunk.css.map": "/static/css/main.39cee129.chunk.css.map",
     "static/js/2.847807ca.chunk.js.LICENSE.txt": "/static/js/2.847807ca.chunk.js.LICENSE.txt",
     "static/media/landing.css": "/static/media/eurostile_extended_black.2e7d046f.ttf",
     "static/media/TATTOO_SCHOOL.6b094c72.png": "/static/media/TATTOO_SCHOOL.6b094c72.png",
-    "static/media/blankbot.48197832.png": "/static/media/blankbot.48197832.png",
+    "static/media/blankbot.c501352d.png": "/static/media/blankbot.c501352d.png",
     "static/media/calculator.752e3868.png": "/static/media/calculator.752e3868.png",
     "static/media/content_img.ef885418.jpg": "/static/media/content_img.ef885418.jpg",
     "static/media/ethereum.d517cdac.gif": "/static/media/ethereum.d517cdac.gif",
@@ -42,7 +42,7 @@
     "static/js/runtime-main.639e6084.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.847807ca.chunk.js",
-    "static/css/main.dbedc8ec.chunk.css",
-    "static/js/main.99bab5ae.chunk.js"
+    "static/css/main.39cee129.chunk.css",
+    "static/js/main.be750166.chunk.js"
   ]
 }
